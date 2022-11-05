@@ -1,0 +1,30 @@
+
+.container {
+  background-color: #47D0D0;
+
+}
+
+h1, h2, h3, h4, h5 {
+  color: #0D507C;
+  font-family: 'Staatliches', cursive;
+}
+
+p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  font-family: 'Staatliches', cursive ;
+  background-color: white;
+  color :#0D507C;
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
